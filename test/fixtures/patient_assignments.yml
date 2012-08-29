@@ -1,0 +1,13 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/Fixtures.html
+
+one:
+  patient_id: 1
+  device_id: 1
+  montior_start: 2011-12-27
+  monitor_end: 2011-12-27
+
+two:
+  patient_id: 1
+  device_id: 1
+  montior_start: 2011-12-27
+  monitor_end: 2011-12-27

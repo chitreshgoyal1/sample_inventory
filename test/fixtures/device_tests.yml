@@ -1,0 +1,15 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/Fixtures.html
+
+one:
+  device_id: 1
+  tom24: false
+  forced: false
+  enrolled: false
+  completed: false
+
+two:
+  device_id: 1
+  tom24: false
+  forced: false
+  enrolled: false
+  completed: false

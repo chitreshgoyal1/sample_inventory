@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta content="text/html; charset=UTF-8" http-equiv="Content-Type" />
+  </head>
+  <body>
+    <p>
+      The following device has been noted as problematic:  <a href="https://inventory.wirelessdx.com/devices/<%= device.id %>"><%= device.serial_number %></a>.
+      <br />
+      <% if !device.device_problem.device_problem.empty? %>
+        This note was also filed with the problem: <br />
+        <%= device.device_problem.device_problem %>
+      <% end %>
+    </p>
+    <p>
+      This is an auto-generated message please do not reply.
+    </p>
+  </body>
+</html>

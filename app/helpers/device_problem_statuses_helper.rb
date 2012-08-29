@@ -1,0 +1,2 @@
+module DeviceProblemStatusesHelper
+end

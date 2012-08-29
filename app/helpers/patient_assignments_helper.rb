@@ -1,0 +1,2 @@
+module PatientAssignmentsHelper
+end

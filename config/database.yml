@@ -1,0 +1,24 @@
+development:
+  adapter: mysql2
+  encoding: utf8
+  database: devices_development
+  username: root
+  password: admin
+  port: 3306
+  host: 127.0.0.1
+
+test:
+  adapter: mysql2
+  encoding: utf8
+  database: devices_testing
+  username: root
+  password: toor
+  host: localhost
+
+production:
+  adapter: mysql2
+  encoding: utf8
+  database: devices_production
+  username: root
+  password: toor
+  host: localhost

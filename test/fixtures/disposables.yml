@@ -1,0 +1,15 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/Fixtures.html
+
+one:
+  disposable_type_id: 1
+  location_id: 1
+  amount: 1
+  par_level: 1
+  alert_amount: 1
+
+two:
+  disposable_type_id: 1
+  location_id: 1
+  amount: 1
+  par_level: 1
+  alert_amount: 1

@@ -1,0 +1,17 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/Fixtures.html
+
+one:
+  device_status_id: 1
+  device_type_id: 1
+  serial_number: MyString
+  comment: MyText
+  imsi: MyString
+  iccid: MyString
+
+two:
+  device_status_id: 1
+  device_type_id: 1
+  serial_number: MyString
+  comment: MyText
+  imsi: MyString
+  iccid: MyString

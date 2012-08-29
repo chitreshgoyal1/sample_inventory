@@ -1,0 +1,31 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/Fixtures.html
+
+one:
+  practice_id: 1
+  location_type_id: 1
+  location_name: MyString
+  location_street1: MyString
+  location_street2: MyString
+  location_city: MyString
+  location_state: MyString
+  location_zip: MyString
+  location_contact: MyString
+  par_level_event: 1
+  par_level_mct: 1
+  alert_amount: 1
+  active: false
+
+two:
+  practice_id: 1
+  location_type_id: 1
+  location_name: MyString
+  location_street1: MyString
+  location_street2: MyString
+  location_city: MyString
+  location_state: MyString
+  location_zip: MyString
+  location_contact: MyString
+  par_level_event: 1
+  par_level_mct: 1
+  alert_amount: 1
+  active: false
